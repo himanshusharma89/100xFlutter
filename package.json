@@ -4,7 +4,7 @@
   "description": "100DaysOfFlutter Twitter Bot",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index"
   },
   "keywords": [],
   "author": "Himanshu Sharma",
